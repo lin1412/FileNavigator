@@ -1,0 +1,8 @@
+report	2096
+report	947
+report	6444
+report	-21
+report	0
+report	1527
+report	100000
+quit	
